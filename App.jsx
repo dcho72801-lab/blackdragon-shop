@@ -23,7 +23,7 @@ const SAMPLE = Array.from({ length: 12 }).map((_, i) => ({
   img: `https://picsum.photos/seed/black${i}/600/400`,
 }));
 
-const ADMIN_CRED = { user: "admin", pass: "shopadmin" };
+const ADMIN_CRED = { user: "VO VAN VIET", pass: "dothinhuquynh25052006" };
 
 export default function FreeFireShopPro() {
   const [products, setProducts] = useState(() => {
